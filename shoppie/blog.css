@@ -1,0 +1,29 @@
+#blog{
+    padding: 120px 120px 0 120px;
+}
+#blog .blog-box{
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+#blog .blog-img{
+    width: 80%;
+    height: 80%;
+    margin-right: 30px;
+}
+#blog img{
+    width: 650px;
+    height: 450px;
+    object-fit: cover;
+    padding: 30px;
+}
+.blog-details p{
+    color: gray;
+}
+.blog-details a{
+    color:  rgb(0, 49, 53);
+}
+.blog-details h4{
+    font-size: 25px;
+}

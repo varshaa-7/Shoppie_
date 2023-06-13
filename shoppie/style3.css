@@ -1,0 +1,28 @@
+@media (max-width:799px){
+   
+    #navbar{
+        
+        
+        
+        height: 100vh;
+        
+        
+    }
+
+    #navbar li{
+      
+        
+        
+    }
+    .banner-box{
+        width: 40px;
+        
+    }
+    #banner3{
+        width: 290vh;
+    }
+    .section-p1{
+        width: 40px;
+        
+    }
+}

@@ -1,0 +1,67 @@
+#cart table{
+    width: 100%;
+    border-collapse:collapse;
+    table-layout: fixed;
+    white-space: nowrap;
+}
+#cart table img{
+    width: 70px;
+}
+.num1{
+    width: 40px;
+    
+}
+#cart table thead td{
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 13px;
+    padding: 18px 0;
+}
+#cart table tbody tr td{
+    padding-top: 15px;
+}
+#cart table tbody td{
+    font-size: 13px;
+}
+.input-text{
+    width: 120px;
+    border: 1px solid gray;
+    height: 40px;
+}
+#cart-add{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 30px;
+    padding: 10px;
+}
+#coupon{
+    padding: 10px;
+}
+#subtotal{
+    width: 50%;
+    margin-bottom: 30px;
+    border: 1px solid gray;
+    padding: 30px;
+}
+#subtotal table{
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px;
+}
+#subtotal table td{
+    width: 50%;
+    border: 1px solid gray;
+    padding: 10px;
+    font-size: 13px;
+}
+.normal1{
+    background-color: rgb(1, 141, 94);
+    color: white;
+    white-space: nowrap;
+    width: 160px;
+    height: 40px;
+    font-weight: 800;
+    cursor: pointer;
+    border-radius: 4px;
+}
