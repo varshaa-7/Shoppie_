@@ -11,6 +11,10 @@
     width: 40px;
     
 }
+.activek{
+    font-weight: 800;
+    color: rgb(10, 39, 83);
+}
 #cart table thead td{
     font-weight: 700;
     text-transform: uppercase;

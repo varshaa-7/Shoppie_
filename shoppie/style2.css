@@ -16,6 +16,11 @@
     line-height: 40px !important;
 
 }
+.active{
+    font-weight: 800;
+    text-decoration: underline;
+    color: rgb(10, 39, 83);
+}
 
 .hero h1{
     font-size: 55px;
